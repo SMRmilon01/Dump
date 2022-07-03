@@ -15,7 +15,7 @@
 - `rm -rf AKING`
 - `git clone https://github.com/SMRmilon01/Dump.git`
 - `cd Dump`
-- `python AKING.py`
+- `python MILON.py`
      
  
  ```Note : This Tools is Free Dumping Tool ```</br>
